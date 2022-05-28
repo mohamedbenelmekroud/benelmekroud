@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    width: 500px;
+
+}
+
+div {
+    background-color: #ddd;
+    width: 1000px;
+    margin: auto;
+    margin-top: 10px;
+    height: 50px;
+}
